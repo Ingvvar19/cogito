@@ -1,5 +1,3 @@
-# cogito
-Сайт платформа Когнитивики
 ```html
 <!-- index.html -->
 <!DOCTYPE html>
